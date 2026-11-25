@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0-beta.1",
+  "channel": "beta",
+  "date": "2026-11-26",
+  "notes": "First preview.",
+  "windows": {
+    "url": "https://github.com/wengtad/waycents-releases/releases/download/v0.1.0-beta.1/WayCents-0.1.0-beta.1-setup.exe",
+    "bytes": 11404203,
+    "sha256": "6a8e5d5fe84c049acb03aaacd3e8395f2d82e2c6ceee35c30f3dcb097131546e"
+  },
+  "models": [
+    {
+      "name": "Qwen3.5 2B",
+      "tier": "lite",
+      "file": "Qwen3.5-2B-Q4_K_M.gguf",
+      "url": "https://huggingface.co/unsloth/Qwen3.5-2B-GGUF/resolve/main/Qwen3.5-2B-Q4_K_M.gguf",
+      "bytes": 1280835840,
+      "sha256": "aaf42c8b7c3cab2bf3d69c355048d4a0ee9973d48f16c731c0520ee914699223"
+    },
+    {
+      "name": "Qwen3.5 9B",
+      "tier": "best",
+      "file": "Qwen3.5-9B-Q4_K_M.gguf",
+      "url": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF/resolve/main/Qwen3.5-9B-Q4_K_M.gguf",
+      "bytes": 5680522464,
+      "sha256": "03b74727a860a56338e042c4420bb3f04b2fec5734175f4cb9fa853daf52b7e8"
+    }
+  ]
+}
