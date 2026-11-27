@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0-beta.2",
   "channel": "beta",
-  "date": "2026-11-26",
-  "notes": "First preview.",
+  "date": "2026-11-27",
+  "notes": "Ask Clinks now explains net worth changes, your portfolio, upcoming bills and month vs month. Bank top-ups to your broker count as investing. Clearer message for picture-only PDFs.",
   "windows": {
-    "url": "https://github.com/wengtad/waycents-releases/releases/download/v0.1.0-beta.1/WayCents-0.1.0-beta.1-setup.exe",
-    "bytes": 11404203,
-    "sha256": "6a8e5d5fe84c049acb03aaacd3e8395f2d82e2c6ceee35c30f3dcb097131546e"
+    "url": "https://github.com/wengtad/waycents-releases/releases/download/v0.1.0-beta.2/WayCents-0.1.0-beta.2-setup.exe",
+    "bytes": 11495429,
+    "sha256": "ed3c9a931b15a1da8b48ca1de4957c3102844ea75ddbc1f3e5bd5728524bc402"
   },
   "models": [
     {
